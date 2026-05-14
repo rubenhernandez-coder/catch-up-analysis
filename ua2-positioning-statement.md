@@ -8,7 +8,7 @@ The statement at the top is the public-facing artifact — short, clean, one par
 
 ## Statement
 
-> For teenagers juggling academics and extracurricular obligations, who struggle to balance their academic workload with everything else competing for their time, Study AI is a smart study planner that turns a chaotic schedule into a clear plan, reducing the stress of juggling academics and outside commitments. Unlike trying to remember every deadline in your head, setting it as an alarm, or basic planner apps, our product tells you how to use your time effectively and is built around the reality of a teenager's packed schedule.
+> For teenagers juggling academics and extracurricular obligations, who struggle to balance their academic workload with everything else competing for their time, Study AI is a smart study planner that turns a chaotic schedule into a clear plan, reducing the stress of juggling academics and outside commitments. Unlike trying to remember every deadline in your head, setting it as an alarm, or basic planner apps, Study AI does the planning for you, organizes it, and reminds you when to work — so you don't have to think about the system, just the work.
 
 ---
 
@@ -22,7 +22,7 @@ Per-clause status. Mirrors the per-clause status in `UA0-PROJECT-STATUS.md`.
 - **Product category:** drafted from belief
 - **Key benefit:** drafted from belief
 - **Primary competitive alternative:** evidenced by interview
-- **Primary differentiation:** drafted-unconfirmed
+- **Primary differentiation:** refined by research
 
 Status values: `not started` | `drafted from belief` | `drafted-unconfirmed` | `refined by research` | `evidenced by interview` | `stable`.
 
@@ -90,9 +90,12 @@ One subsection per clause. Updated continuously across all five passes.
 
 ### Primary differentiation
 
-- **Current belief:** Lays out a visualization of the available time and how to use it most effectively.
-- **Basis for the belief:** Alarms and memory tell you what's due; Study AI tells you when to work on things. That gap is the core value proposition.
+- **Current belief:** Study AI does the planning for you, organizes it, and reminds you when to work.
+- **Basis for the belief:** Alarms and memory tell you what's due; Study AI does the planning for you. The core gap is that every existing tool either requires too much setup before it helps (Google Calendar, structured planners) or gives no guidance at all (paper, memory). Study AI eliminates the setup burden and does the thinking for the student.
 - **Evidence found:**
-  - [none yet]
-- **Alternatives considered:** "Won't forget" — true but an alarm does this too, not unique enough. "Structured plan ahead of the deadline" — real but doesn't capture the visualization aspect.
-- **What would change my mind:** If a competing product already does this well and has significant adoption among the target group, the differentiation needs to be sharpened further.
+  - Ruben (interview): Tried using a calendar but abandoned it — found it too complicated and a waste of time. Now just pushes through on his own.
+  - Jayden (interview): Wasn't using any planning tool at all. His coping strategy was brute force and asking for extensions.
+  - Reddit reviews (secondary research): Recurring theme across multiple reviewers — anything requiring setup or maintenance gets abandoned. One reviewer said their brain "refuses to use anything premade." Another said a phone calendar with auto-reminders is "the only way anything ever gets done." The myHomework review showed a beloved app lost its users entirely when it added complexity.
+  - Synthesis: The differentiation is not just "tells you when to work" — it's that Study AI requires almost no setup and does the planning automatically, so students who abandoned every other tool have a reason to stick with this one.
+- **Alternatives considered:** "Won't forget" — true but an alarm does this too, not unique enough. "Structured plan ahead of the deadline" — real but doesn't capture the low-friction angle. "Visualization of available time" — too abstract, doesn't communicate the automatic planning aspect.
+- **What would change my mind:** If a competing product already does low-friction automatic planning well and has significant adoption among the target group, the differentiation needs to be sharpened further. Still needs direct interview confirmation to move to evidenced by interview.

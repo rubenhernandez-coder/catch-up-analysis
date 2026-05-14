@@ -30,7 +30,7 @@ One line per clause. Status values: `not started` | `drafted from belief` | `dra
 - Product category: drafted from belief
 - Key benefit: drafted from belief
 - Primary competitive alternative: evidenced by interview
-- Primary differentiation: drafted-unconfirmed
+- Primary differentiation: refined by research
 
 ## Completed checkpoints
 
